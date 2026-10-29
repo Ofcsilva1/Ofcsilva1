@@ -1,9 +1,8 @@
-<div align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&pause=1100&color=58A6FF&center=true&vCenter=true&width=720&height=65&duration=3500&repeat=true&lines=CAIQUE+REIS;AN%C3%81LISE+DE+DADOS+%7C+J%C3%9ANIOR" alt="Caique Reis — Análise de Dados Júnior" />
-  </a>
-  <p>Transformando dados em informações claras e úteis.</p>
-</div>
+<p align="center">
+  <img src="./assets/profile-banner.svg" width="100%" alt="Caique Reis — Análise de Dados Júnior" />
+  <br />
+  <sub>Transformando dados em informações claras e úteis.</sub>
+</p>
 
 ---
 
