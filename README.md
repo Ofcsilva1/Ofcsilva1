@@ -1,7 +1,5 @@
 <p align="center">
   <img src="./assets/profile-banner.svg" width="100%" alt="Caique Reis — Análise de Dados Júnior" />
-  <br />
-  <sub>Transformando dados em informações claras e úteis.</sub>
 </p>
 
 ---
