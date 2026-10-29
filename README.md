@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" width="100%" alt="Caique Reis — Análise de Dados Júnior" />
+  <img src="./assets/profile-banner-gradient.svg" width="100%" alt="Caique Reis — Análise de Dados Júnior" />
 </p>
 
 ---
